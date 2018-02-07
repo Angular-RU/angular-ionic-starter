@@ -1,4 +1,4 @@
-# Ionic Framework
+# Ionic Framework [![Ionic RU](https://img.shields.io/badge/Telegram_chat:-Ionic_RU-216bc1.svg?style=flat)](https://t.me/pro_ionic)
 
 ## Официальные ресурсы 
 
